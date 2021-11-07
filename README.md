@@ -28,7 +28,7 @@ Here we used JSP for displaying data(Front end) Servlet for controlling data and
 
 ## Accessing tips :
 
-1. Clone or download the repository: `https://github.com/vishalvs9728/MyBlog_Web/`
+1. Clone or download the repository: `https://github.com/scj50499/WikiScraper`
 2. Navigate to the folder `src` Folder for Resouce, Java, CSS, JS, JSP files
 3. Navigate to the folder `src/com/major/project` to access developers content
 4. Navigate to the folder `Screenshots` to see Screenshots
@@ -93,24 +93,3 @@ Here we used JSP for displaying data(Front end) Servlet for controlling data and
 </div>
 
 
-## Some files for the Application
-
-For Java File [Click here]( https://github.com/vishalvs9728/MyBlog_WebApp/tree/main/src/com/major/project)
-
-* [For DAO file](https://github.com/vishalvs9728/MyBlog_WebApp/tree/main/src/com/major/project/daodb)
-
-* [For Servlet files](https://github.com/vishalvs9728/MyBlog_WebApp/tree/main/src/com/major/project/servlet)
-
-* [For Helper/Connection Class](https://github.com/vishalvs9728/MyBlog_WebApp/tree/main/src/com/major/project/helper)
-
-* [For Entities](https://github.com/vishalvs9728/MyBlog_WebApp/tree/main/src/com/major/project/entities)
-
-* [WebContent or JSP files](https://github.com/vishalvs9728/MyBlog_WebApp/tree/main/WebContent)
-
-CSS files are stored in `css` package
-
-* [CSS](https://github.com/vishalvs9728/MyBlog_WebApp/tree/main/WebContent/css)
-
-Web.xml file 
-
-* [web.xml](https://github.com/vishalvs9728/MyBlog_WebApp/blob/main/WebContent/WEB-INF/web.xml)
